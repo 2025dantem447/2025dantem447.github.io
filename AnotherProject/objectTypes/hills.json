@@ -1,0 +1,84 @@
+{
+	"name": "Hills",
+	"plugin-id": "Sprite",
+	"sid": 450667382583615,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 449335092410695
+		},
+		{
+			"behaviorId": "Physics",
+			"name": "Physics",
+			"sid": 536641392039038
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 800,
+						"height": 329,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3659791,
+						"collisionPoly": {
+							"points": [
+								0.00125,
+								0.1519756838905775,
+								0.059375,
+								0.060790273556231,
+								0.12,
+								0.024316109422492398,
+								0.19875,
+								0.031914893617021274,
+								0.2562499999999998,
+								0.07598784194528874,
+								0.31812500000000066,
+								0.16261398176291794,
+								0.4303124999999999,
+								0.24848024316109424,
+								0.5024999999999996,
+								0.282674772036474,
+								0.5699999999999997,
+								0.2720364741641335,
+								0.6462500000000007,
+								0.22568389057750754,
+								0.7656250000000003,
+								0.09764437689969602,
+								0.8953125,
+								0.009308510638297851,
+								0.9414062499999999,
+								0.006079027355623099,
+								1,
+								0,
+								1,
+								1,
+								0,
+								1
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 500489699073900,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

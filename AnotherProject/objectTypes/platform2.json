@@ -1,0 +1,48 @@
+{
+	"name": "Platform2",
+	"plugin-id": "Sprite",
+	"sid": 449872122060700,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Physics",
+			"name": "Physics",
+			"sid": 713113529969019
+		},
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 989391110870664
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 64,
+						"height": 128,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 4608115,
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 844586989535681,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
